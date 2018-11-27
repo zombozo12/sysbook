@@ -1,5 +1,5 @@
 # sysbook
-Sebuah Aplikasi Dinamis Penyewaan Buku berbasis Java Swing  dan MySQL
+Sebuah Aplikasi Dinamis Penyewaan Buku menggunakan Java Swing  dan MySQL dengan halaman yang dinamis
 
 ## Getting Started
 Instruksi ini untuk mendapatkan sebuah copy dari project ini dan dijalankan di komputer Anda. Feel free to edit, but don't delete the copyright :)
